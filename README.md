@@ -4,3 +4,4 @@ In this music splayer we can play and pause and move to previous and next songs.
 
 ![image](https://github.com/lateefshaik2002/Spotify-music-player/assets/140315656/b85e4c09-0e2b-4b78-a77b-c5540826d1a0)
 
+![image](https://github.com/lateefshaik2002/Spotify-music-player/assets/140315656/3a583fde-f46a-48a2-b43d-e6dafbb2bbba)
